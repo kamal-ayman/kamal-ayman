@@ -12,9 +12,6 @@ I have created many projects in different fields such as desktop applications wi
 
 Skills: MOBILE DEVELOPER - Flutter - Kotlin
 
-- 🔭 I’m currently working on this page. 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kamal159)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamal-ayman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kamalayman159)  
 
 
