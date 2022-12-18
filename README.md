@@ -15,7 +15,3 @@ positive team member, striving to utilize my knowledge and expertise for optimal
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamal159)](https://github.com/anuraghazra/github-readme-stats)
-
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kamal159&theme=react-dark&hide_border=true&area=true) |
