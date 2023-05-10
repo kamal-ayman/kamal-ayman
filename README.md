@@ -4,7 +4,7 @@
 </p>
 
 
-#### Software Engineer - Mobile Developer
+#### Software Engineer - Flutter Developer
 ![Software Engineer - Mobile Developer](https://img.freepik.com/free-vector/goals-habits-tracking-app_23-2148629037.jpg?t=st=1652546575~exp=1652547175~hmac=879282622427b1d183df8a1d63dcb59e1ceca4f8e5b6094bca52f23a0c97f0af&w=996)
 
 Software Engineer adept in carefully diagnosing and assessing issues, and offering real viable
