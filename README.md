@@ -11,7 +11,7 @@ Software Engineer adept in carefully diagnosing and assessing issues, and offeri
 solutions. Skilled in design, prototyping, and testing. Committed to working as a collaborative and
 positive team member, striving to utilize my knowledge and expertise for optimal results.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kamal159)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamal-ayman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kamalayman159)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kamal-ayman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamal-ayman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kamalayman159)  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamal159)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamal-ayman)](https://github.com/anuraghazra/github-readme-stats)
