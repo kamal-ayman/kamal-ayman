@@ -17,3 +17,6 @@ positive team member, striving to utilize my knowledge and expertise for optimal
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamal-ayman)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&count_private=true&show_icons=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamal-ayman&count_private=true&show_icons=true)
+
