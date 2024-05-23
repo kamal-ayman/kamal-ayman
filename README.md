@@ -11,5 +11,6 @@ Software Engineer adept in carefully diagnosing and assessing issues, and offeri
 solutions. Skilled in design, prototyping, and testing. Committed to working as a collaborative and
 positive team member, striving to utilize my knowledge and expertise for optimal results.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamal-ayman&count_private=true&show_icons=true)
 
 
