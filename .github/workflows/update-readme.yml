@@ -16,14 +16,14 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+      - name: Pull latest changes
+        run: git pull origin main
 
       - name: Update README with GitHub stats
         run: |
           curl -o README.md https://raw.githubusercontent.com/kamal-ayman/kamal-ayman/main/README.md
           sed -i 's|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamal-ayman&count_private=true&show_icons=true&theme=default)|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamal-ayman&count_private=true&show_icons=true&theme=default&token=${{ secrets.GH_TOKEN }})|' README.md
-
-      - name: Pull latest changes
-        run: git pull origin main
 
       - name: Commit changes
         run: |
