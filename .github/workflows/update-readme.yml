@@ -12,16 +12,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Update README with GitHub stats
-        uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
       - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Update README with GitHub stats
+        run: |
+          curl -o README.md https://raw.githubusercontent.com/kamal-ayman/kamal-ayman/main/README.md
+          sed -i 's|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamal-ayman&count_private=true&show_icons=true&theme=default)|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamal-ayman&count_private=true&show_icons=true&theme=default&token=${{ secrets.GH_TOKEN }})|' README.md
 
       - name: Pull latest changes
         run: git pull origin main
