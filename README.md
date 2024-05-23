@@ -12,5 +12,4 @@ solutions. Skilled in design, prototyping, and testing. Committed to working as 
 positive team member, striving to utilize my knowledge and expertise for optimal results.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamal-ayman&count_private=true&show_icons=true)
 
