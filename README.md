@@ -15,5 +15,5 @@ positive team member, striving to utilize my knowledge and expertise for optimal
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats-henna-two-21.vercel.app/api?username=kamal-ayman&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats-henna-two-21.vercel.app/api/top-langs/?username=kamal-ayman&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-henna-two-21.vercel.app/api/top-langs/?username=kamal-ayman&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
