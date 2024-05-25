@@ -16,4 +16,4 @@ positive team member, striving to utilize my knowledge and expertise for optimal
 # 📊GitHub Stats :
 ![](https://github-readme-stats-henna-two-21.vercel.app/api?username=kamal-ayman&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=stars\&show_icons=true)<br/>
 ![](https://github-readme-stats-henna-two-21.vercel.app/api/top-langs/?username=kamal-ayman&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kamalayman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-henna-two-21.vercel.app/api/wakatime?username=kamalayman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
