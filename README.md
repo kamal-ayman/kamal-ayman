@@ -21,11 +21,11 @@
 ```dart
 class KamalAyman extends FlutterDeveloper {
   final String name = "Kamal Ayman";
-  final String role = "Senior Mobile Developer";
+  final String role = "Mobile Developer";
   final List<String> languages = ["Dart", "Kotlin", "Swift", "Java"];
   
   Map<String, dynamic> getCurrentFocus() => {
-    "mobile": ["Flutter", "Native Android", "iOS"],
+    "mobile": ["Flutter"],
     "architecture": ["Clean Architecture", "MVVM", "BLoC"],
     "backend": ["Firebase", "REST APIs", "GraphQL"],
     "tools": ["Git", "Docker", "CI/CD", "Fastlane"]
