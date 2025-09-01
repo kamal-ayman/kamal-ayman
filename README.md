@@ -80,12 +80,6 @@ class KamalAyman extends FlutterDeveloper {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamal-ayman&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=f85149&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
 </div>
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamal-ayman&theme=github-compact&hide_border=true&color=2F81F7&line=2F81F7&point=c9d1d9" alt="Contribution Graph"/>
-</div>
-
 ### ⏰ Coding Activity
 
 <div align="center">
