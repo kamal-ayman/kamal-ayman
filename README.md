@@ -77,7 +77,6 @@ class KamalAyman extends FlutterDeveloper {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-henna-two-21.vercel.app/api?username=kamal-ayman&show_icons=true&theme=github_dark&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamal-ayman&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=f85149&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 ### ⏰ Coding Activity
