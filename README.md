@@ -8,7 +8,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kamal-ayman&style=for-the-badge&color=2F81F7" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/kamal-ayman?style=for-the-badge&color=2F81F7" alt="Followers"/>
   <img src="https://img.shields.io/badge/Focus-Mobile%20Development-2F81F7?style=for-the-badge" alt="Focus"/>
 </div>
 
