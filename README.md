@@ -72,28 +72,6 @@ class KamalAyman extends FlutterDeveloper {
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-henna-two-21.vercel.app/api?username=kamal-ayman&show_icons=true&theme=github_dark&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</div>
-
-### ⏰ Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats-henna-two-21.vercel.app/api/wakatime?username=kamalayman&theme=github_dark&hide_border=true&title_color=2F81F7&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamal-ayman&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=8" alt="GitHub Trophies"/>
-</div>
-
----
-
 ### 📈 Development Philosophy
 
 <div align="center">
